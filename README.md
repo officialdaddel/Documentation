@@ -6,3 +6,5 @@ This repository includes:
   - 💸 CoinSystem
 - 🔨 ItemBuilder
 - ➡ TabCompleter
+  - 🔢 OneArg
+  - ➕ MoreArgs
