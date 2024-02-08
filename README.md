@@ -8,3 +8,4 @@ This repository includes:
 - ➡ TabCompleter
   - 🔢 OneArg
   - ➕ MoreArgs
+- 📝ConfigManager
